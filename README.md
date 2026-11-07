@@ -238,4 +238,4 @@ This repository serves as the official landing page for Delta Force: Xtreme 2. T
 **Get the most recent version of Delta Force: Xtreme 2 today!**
 
 ---
-**Last updated:** 2026-11-06 21:13:07 UTC
+**Last updated:** 2026-11-07 01:30:27 UTC
